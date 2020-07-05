@@ -1,0 +1,28 @@
+E:\Emgu\emgucv-windows-x86 2.2.1.1150\bin\Emgu.CV.License.txt
+E:\Emgu\emgucv-windows-x86 2.2.1.1150\bin\Emgu.CV.GPU.dll
+E:\Emgu\emgucv-windows-x86 2.2.1.1150\bin\Emgu.CV.GPU.pdb
+E:\Emgu\emgucv-windows-x86 2.2.1.1150\Emgu.CV.GPU\obj\Debug\ResolveAssemblyReference.cache
+E:\Emgu\emgucv-windows-x86 2.2.1.1150\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.dll
+E:\Emgu\emgucv-windows-x86 2.2.1.1150\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.pdb
+E:\Emgu\emgucv-windows-x86 2.2.1.1150\bin\Emgu.CV.GPU.XML
+C:\Users\Amir\Desktop\BodyFace Detection\bin\Emgu.CV.License.txt
+C:\Users\Amir\Desktop\BodyFace Detection\bin\Emgu.CV.GPU.XML
+C:\Users\Amir\Desktop\BodyFace Detection\bin\Emgu.CV.GPU.dll
+C:\Users\Amir\Desktop\BodyFace Detection\bin\Emgu.CV.GPU.pdb
+C:\Users\Amir\Desktop\BodyFace Detection\Emgu.CV.GPU\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\BodyFace Detection\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.dll
+C:\Users\Amir\Desktop\BodyFace Detection\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.pdb
+C:\Users\Amir\Desktop\Body Detection\Emgu.CV.GPU\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Body Detection\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.dll
+C:\Users\Amir\Desktop\Body Detection\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.pdb
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.License.txt
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.GPU.XML
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.GPU.dll
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.GPU.pdb
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\bin\Emgu.CV.License.txt
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\bin\Emgu.CV.GPU.XML
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\bin\Emgu.CV.GPU.dll
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\bin\Emgu.CV.GPU.pdb
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\Emgu.CV.GPU\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.dll
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.pdb

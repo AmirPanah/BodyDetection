@@ -1,0 +1,2 @@
+C:\Users\Amir\Desktop\Body Detection\Body Detection\Body Detection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\Body Detection\Body Detection\obj\Debug\ResolveAssemblyReference.cache

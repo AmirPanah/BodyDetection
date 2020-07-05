@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Body Detection">
+</Property><Property Name="Solution File" Value="C:\Users\Amir\Desktop\Win 14-1-90\MRL Esfand 89\Body Detection\Body Detection\Body Detection.sln">
+</Property><Property Name="Date" Value="Wednesday, April 06, 2011">
+</Property><Property Name="Time" Value="10:40 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Body Detection" Source="Body Detection\Body Detection.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Body Detection" Source="Body Detection\Body Detection.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Emgu.CV" Source="..\Emgu.CV\Emgu.CV.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Emgu.CV" Source="..\Emgu.CV\Emgu.CV.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Emgu.CV.GPU" Source="..\Emgu.CV.GPU\Emgu.CV.GPU.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Emgu.CV.GPU" Source="..\Emgu.CV.GPU\Emgu.CV.GPU.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Emgu.CV.ML" Source="..\Emgu.CV.ML\Emgu.CV.ML.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Emgu.CV.ML" Source="..\Emgu.CV.ML\Emgu.CV.ML.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Emgu.CV.UI" Source="..\Emgu.CV.UI\Emgu.CV.UI.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Emgu.CV.UI" Source="..\Emgu.CV.UI\Emgu.CV.UI.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Emgu.Util" Source="..\Emgu.Util\Emgu.Util.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Emgu.Util" Source="..\Emgu.Util\Emgu.Util.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Body Detection.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Body Detection.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Body Detection" Source="Body Detection\Body Detection.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

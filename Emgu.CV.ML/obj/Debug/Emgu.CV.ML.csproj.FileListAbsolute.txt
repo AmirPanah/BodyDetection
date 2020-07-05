@@ -1,0 +1,7 @@
+C:\Users\Amir\Desktop\Body Detection\Emgu.CV.ML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.License.txt
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.ML.XML
+C:\Users\Amir\Desktop\Body Detection\Emgu.CV.ML\obj\Debug\Emgu.CV.ML.dll
+C:\Users\Amir\Desktop\Body Detection\Emgu.CV.ML\obj\Debug\Emgu.CV.ML.pdb
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.ML.dll
+C:\Users\Amir\Desktop\Body Detection\bin\Emgu.CV.ML.pdb
